@@ -17,7 +17,7 @@ module.exports = {
       src: 'https://swetrix.org/swetrix.js', defer: true,
     },
     {
-      src: 'js/setupswetrix.js', defer: true,
+      src: '/js/setupswetrix.js', defer: true,
     }
   ],
   themeConfig: {
