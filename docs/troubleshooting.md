@@ -34,4 +34,3 @@ In case you don't see any visits even after a delay, make sure you don't have an
  - **Do you use caching on your site?**. Make sure to purge the cache after you install Swetrix script, to ensure you're loading the latest version of your site.
  - **Did you set up allowed domains in the Project settings?**. If you did, you might have misspelled your domain name or added a `www.` prefix to it while your site does not use it (or vice versa).
  - **You might be using an SPA or a similar framework**. You might have set up the script inproperly. Generally, we recommend using [Swetrix via NPM](/install-script#install-swetrix-via-npm) for such application.
- - 
