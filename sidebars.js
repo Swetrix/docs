@@ -11,6 +11,12 @@ module.exports = {
         items: ['integrations/wordpress', 'integrations/webflow', 'integrations/framer', 'integrations/wix', 'integrations/ghost', 'integrations/django', 'integrations/sveltekit'],
       }
     ],
+    'Site settings': [
+      'sitesettings/how-to-access-site-settings',
+      'sitesettings/how-to-invite-users-to-your-website',
+      'sitesettings/embed-your-analytics-dashboard-into-your-website',
+      'sitesettings/reset-sites-data',
+    ],
     'Affiliate program': [
       'affiliate/about',
       'affiliate/terms',
