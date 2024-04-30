@@ -25,6 +25,9 @@ module.exports = {
       'billing/cancel-subscription',
       'billing/faq',
     ],
+    'Adblockers': [
+      'adblockers/how-to-deal-with-adblockers',
+    ],
     'Affiliate program': [
       'affiliate/about',
       'affiliate/terms',
