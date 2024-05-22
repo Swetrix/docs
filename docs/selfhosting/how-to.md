@@ -46,7 +46,7 @@ Before running the following command, make sure that you have Docker installed o
 Once you've set up the server, you're ready to start up the server:
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 After you run this command, the following containers will be started:
@@ -72,7 +72,7 @@ docker pull swetrix/swetrix-fe
 
 And then restart the container:
 ```bash
-docker-compose restart
+docker compose restart
 ```
 
 ## Reverse proxy
