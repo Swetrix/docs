@@ -1,3 +1,7 @@
+> [!NOTE]
+> This repository is deprecated and has been moved into [Swetrix/swetrix monorepo](https://github.com/Swetrix/swetrix/tree/main/docs).
+
+
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
